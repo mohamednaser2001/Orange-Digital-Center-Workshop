@@ -2,7 +2,7 @@
 # **Orange Digital Center Workshop*
 
 
-<img src="https://user-images.githubusercontent.com/75574674/192072114-86beb7af-31d2-4124-9594-17038d497fa3.png" width=250 height=500>     <img src="https://user-images.githubusercontent.com/75574674/192070309-dc91f07e-8314-47fa-91dc-9926c5277eef.png" width=250 height=500>    <img src="https://user-images.githubusercontent.com/75574674/192071283-af2c621d-7b36-43b4-a937-3df42803fa6b.png" width=250 height=500>       <img src="https://user-images.githubusercontent.com/75574674/192071294-11f35aad-760a-4c31-909f-0dcf84d25740.png" width=250 height=500>
+<img src="https://user-images.githubusercontent.com/75574674/192072114-86beb7af-31d2-4124-9594-17038d497fa3.png" width=250 height=500 margin-right:2rem>     <img src="https://user-images.githubusercontent.com/75574674/192070309-dc91f07e-8314-47fa-91dc-9926c5277eef.png" width=250 height=500>    <img src="https://user-images.githubusercontent.com/75574674/192071283-af2c621d-7b36-43b4-a937-3df42803fa6b.png" width=250 height=500>       <img src="https://user-images.githubusercontent.com/75574674/192071294-11f35aad-760a-4c31-909f-0dcf84d25740.png" width=250 height=500>
 
 
 #
